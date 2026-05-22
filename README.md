@@ -59,4 +59,4 @@ Me chamo Jamily de Oliveira Cruz, tenho 22 anos e sou natural de João Pessoa. C
 
 ---
 
-> "O único modo de fazer um excelente trabalho é amar o que você faz."
+>                                  "𝕺 ú𝖓𝖎𝖈𝖔 𝖒𝖔𝖉𝖔 𝖉𝖊 𝖋𝖆𝖟𝖊𝖗 𝖚𝖒 𝖊𝖝𝖈𝖊𝖑𝖊𝖓𝖙𝖊 𝖙𝖗𝖆𝖇𝖆𝖑𝖍𝖔 é 𝖆𝖒𝖆𝖗 𝖔 𝖖𝖚𝖊 𝖛𝖔𝖈ê 𝖋𝖆𝖟."
