@@ -42,7 +42,7 @@ Me chamo Jamily de Oliveira Cruz, tenho 22 anos e sou natural de João Pessoa. C
 
 ---
 
-### 💻 Laboratório de Desenvolvimento & Projetos (Foco Atual)
+                                         𝕃𝕒𝕓𝕠𝕣𝕒𝕥ó𝕣𝕚𝕠 𝕕𝕖 𝔻𝕖𝕤𝕖𝕟𝕧𝕠𝕝𝕧𝕚𝕞𝕖𝕟𝕥𝕠 & ℙ𝕣𝕠𝕛𝕖𝕥𝕠𝕤 (𝔽𝕠𝕔𝕠 𝔸𝕥𝕦𝕒𝕝)
 
 * **Projetos Acadêmicos e Práticos:** Aplicação dos conhecimentos adquiridos na UEPB em códigos reais, estruturando a lógica de programação de ponta a ponta.
 * **Desenvolvimento de projetos:** Criação de scripts, manipulação de dados e automações para solucionar problemas lógicos vocês vão ver por aqui (paciência).
@@ -50,7 +50,8 @@ Me chamo Jamily de Oliveira Cruz, tenho 22 anos e sou natural de João Pessoa. C
 
 ---
 
-### 🎯 Objetivos de Curto Prazo
+                                                     𝕆𝕓𝕛𝕖𝕥𝕚𝕧𝕠𝕤 𝕕𝕖 ℂ𝕦𝕣𝕥𝕠 ℙ𝕣𝕒𝕫𝕠
+                                                     
 
 * [ ] Consolidar projetos de extensão e repositórios práticos da faculdade aqui no GitHub.
 * [ ] Aprofundar o domínio na stack de JavaScript/TypeScript com React e Next.js.
