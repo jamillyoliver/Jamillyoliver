@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Jamilly0oliver
+# 👩🏻‍💻 jamillyoliver
 
 **`Desenvolvedora FullStack`**
 
@@ -29,11 +29,11 @@ Me chamo Jamily de Oliveira Cruz, tenho 22 anos e sou natural de João Pessoa. C
     />
 </a>
 
-<a href="https://github.com/jamilly0oliver?tab=followers">
+<a href="https://github.com/jamillyoliver?tab=followers">
     <img 
         alt="Seguidores GitHub" 
         title="Me siga no GitHub"
-        src="https://custom-icon-badges.demolab.com/github/followers/jamilly0oliver?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        src="https://img.shields.io/github/followers/jamillyoliver?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
     />
 </a>
 
@@ -153,28 +153,4 @@ Me chamo Jamily de Oliveira Cruz, tenho 22 anos e sou natural de João Pessoa. C
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+    src="
