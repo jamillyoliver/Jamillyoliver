@@ -1,4 +1,4 @@
-#          𝔪𝔦𝔩𝔩𝔶𝔪𝔦𝔨𝔢
+#          𝕞𝕚𝕝𝕝𝕪   𝕞𝕚𝕜𝕖 
 **`Desenvolvedora FullStack`**
 
 Me chamo Jamily de Oliveira Cruz, tenho 22 anos e sou natural de João Pessoa. Concluí o ensino médio no JRBS, com o curso técnico em vendas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade estadual da paraíba. Sou apaixonada por tecnologia.
